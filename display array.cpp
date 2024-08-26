@@ -1,0 +1,22 @@
+//23070123076
+//aryan kulkarni//
+#include<iostream>
+using namespace std;
+int main()
+{
+    int x[6] = {1,4,7,8,3,9};
+    int i;
+    for (i=0;i<6;i++)
+    {
+        cout<<x[i]<<endl;
+    }
+}
+
+/*
+1
+4
+7
+8
+3
+9
+*/
